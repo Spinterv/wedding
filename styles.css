@@ -642,7 +642,7 @@ body.is-loading .page {
 .reveal {
   opacity: 0;
   transform: translateY(calc(16px * var(--scale)));
-  transition: opacity 2s var(--ease), transform 2s var(--ease);
+  transition: opacity 3s var(--ease), transform 3s var(--ease);
 }
 
 .reveal.is-visible {
